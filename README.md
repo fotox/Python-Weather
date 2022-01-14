@@ -10,10 +10,10 @@ The goal of the project is to be able to predict better whether and which renewa
 - [ ] Weather data download script
 - [ ] Sun data download script
 - [x] Standardize the data structure
-- [ ] Train model
-- [ ] Validate model
-- [ ] Test model
-- [ ] Export model
+- [x] Train model
+- [x] Validate model
+- [x] Test model
+- [x] Export model
 
 ## Phase 2:
 - [ ] Create a 3D vegetation map
