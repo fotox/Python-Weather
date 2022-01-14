@@ -14,6 +14,7 @@ The goal of the project is to be able to predict better whether and which renewa
 - [x] Validate model
 - [x] Test model
 - [x] Export model
+- [x] Generate comparison chart
 
 ## Phase 2:
 - [ ] Create a 3D vegetation map
@@ -23,6 +24,7 @@ The goal of the project is to be able to predict better whether and which renewa
 - [ ] Validate model
 - [ ] Test model
 - [ ] Export model
+- [ ] Generate comparison chart
 
 ## Phase 3:
 - [ ] Build self-sufficient weather station
